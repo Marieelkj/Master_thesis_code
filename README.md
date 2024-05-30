@@ -10,7 +10,7 @@ First set up an environment containing all the packages mentioned in the environ
 - The data is too big to upload on github
   - JSRT dataset can be downloaded from - http://db.jsrt.or.jp/eng.php
   - padchest dataset can be downloaded from - https://bimcv.cipf.es/bimcv-projects/padchest/ download sample 2
-  - The data has also been added to this drive
+  - The data has also been added to this drive were the train, val and test have been split up
     - https://drive.google.com/drive/folders/1E6A89Bk9vjy9MTyWJEuJ8RZJwK89LI2Z
        - dataset folder belongs in hybridGNet-main folder
        - rest belongs in generateData folder
