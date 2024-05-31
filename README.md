@@ -14,4 +14,4 @@ First set up an environment containing all the packages mentioned in the environ
     - https://drive.google.com/drive/folders/1E6A89Bk9vjy9MTyWJEuJ8RZJwK89LI2Z?usp=drive_link
        - dataset folder belongs in hybridGNet-main folder
        - rest belongs in generateData folder
-     
+   - The synthetic data can be generated using the functions
